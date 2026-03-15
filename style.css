@@ -1,0 +1,56 @@
+body {
+
+    font-family: -apple-system, BlinkMacSystemFont, Helvetica, Arial;
+    max-width: 760px;
+    margin: auto;
+    padding: 40px;
+    line-height: 1.7;
+    color: #222;
+    
+    }
+    
+    h1 {
+    
+    font-size: 40px;
+    font-weight: 600;
+    
+    }
+    
+    .subtitle {
+    
+    color: #666;
+    margin-bottom: 20px;
+    
+    }
+    
+    .links {
+    
+    margin-bottom: 40px;
+    
+    }
+    
+    .links a {
+    
+    text-decoration: none;
+    color: #0366d6;
+    margin-right: 10px;
+    
+    }
+    
+    h2 {
+    
+    margin-top: 40px;
+    
+    }
+    
+    ul {
+    
+    padding-left: 20px;
+    
+    }
+    
+    li {
+    
+    margin-bottom: 15px;
+    
+    }
